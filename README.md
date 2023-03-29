@@ -24,6 +24,7 @@ The Chicago and New York City files also have the following two columns:
     Birth Year
 <div>
 <img src="https://video.udacity-data.com/topher/2018/March/5aa771dc_nyc-data/nyc-data.png">
+    
 ## Statistics Computed
 
     I learned about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. 
